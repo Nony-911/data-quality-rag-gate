@@ -3,7 +3,7 @@
 
 An end-to-end Data Engineering pipeline enforcing Data Governance dimensions (Completeness, Accuracy, Validity) before feeding unverified data into Retrieval-Augmented Generation (RAG) knowledge bases.
 
-This project was developed as part of the Data Engineering & AI Training Program powered by [@SDAIAAcademy](https://github.com/SDAIAAcademy)
+> This project was made for **"Modern Data Engineering for AI Systems"** course provided by [SDAIA Academy](https://github.com/SDAIAAcademy).
 ---
 
 ## 📌 Architecture & Concepts
